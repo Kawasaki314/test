@@ -1,5 +1,5 @@
-# test
-A repo used for testing readme documents  
+# Test
+A repo used for testing README documents and other kinds of markdown files.
 
 ```py
 print ("hello world")
