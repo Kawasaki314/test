@@ -34,9 +34,16 @@ the quick brown fox jumps over the lazy dog
 
 ~~the quick brown fox jumps over the lazy dog~~
 
+<!--
+underline: there's not really a syntax for unerlines in markdown
+so we just use the ones from html which is <u> text </u>
+-->
+
+<u>the quick brown fox jumps over the lazy dog</u>
+
 <!-- put them all together -->
 
-***~~the quick brown fox jumps over the lazy dog~~***
+<u>***~~the quick brown fox jumps over the lazy dog~~***</u>
 
 <!-- the asterisks and tildas can go in any order, but they have to begin and end in the same order -->
 
